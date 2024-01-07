@@ -11,7 +11,7 @@ import (
 
 var (
 	PlayerRe       = regexp.MustCompile(`^/players/*$`)
-	PlayerReWithID = regexp.MustCompile(`^/players/(\d+)$`)
+	PlayerReWithID = regexp.MustCompile(`^/players/([a-z0-9]+(?:-[a-z0-9]+)+)$`)
 )
 
 type playerStore interface {
@@ -67,7 +67,7 @@ func (h *PlayersHandler) CreatePlayer(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	// Create URL from player kit number
-	resourceID := slug.Make(player.KitNumber)
+	resourceID := slug.Make(player.KitNumber + " " + player.FirstName + " " + player.LastName)
 	if err := h.store.Add(resourceID, player); err != nil {
 		InternalServerErrorHandler(w, r)
 		return
