@@ -67,7 +67,7 @@ func (h *PlayersHandler) CreatePlayer(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	// Create URL from player kit number
-	resourceID := slug.Make(player.KitNumber + " " + player.FirstName + " " + player.LastName)
+	resourceID := slug.Make(player.FirstName + " " + player.LastName)
 	if err := h.store.Add(resourceID, player); err != nil {
 		InternalServerErrorHandler(w, r)
 		return
