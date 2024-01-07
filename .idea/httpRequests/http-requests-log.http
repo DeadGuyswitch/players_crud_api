@@ -1,0 +1,605 @@
+GET http://localhost:8080/players/7-mason-mount
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-01-07T071249.200.txt
+
+###
+
+GET http://localhost:8080/players
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-01-07T071241.200.txt
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 138
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "7",
+  "first_name": "Mason",
+  "last_name": "Mount",
+  "nationality": "English",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 145
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "8",
+  "first_name": "Bruno",
+  "last_name": "Fernandes",
+  "nationality": "Portugese",
+  "position": "Attacking Midfielder"
+
+}
+
+###
+
+GET http://localhost:8080/players/7-mason-mount
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/players
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-01-07T070045.200.txt
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 145
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "8",
+  "first_name": "Bruno",
+  "last_name": "Fernandes",
+  "nationality": "Portugese",
+  "position": "Attacking Midfielder"
+
+}
+
+###
+
+GET http://localhost:8080/players
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-01-07T065910.200.txt
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 138
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "7",
+  "first_name": "Mason",
+  "last_name": "Mount",
+  "nationality": "English",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+GET http://localhost:8080/players
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-01-07T065817.200.txt
+
+###
+
+GET http://localhost:8080/players/7
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-01-07T065814.404.txt
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 138
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "7",
+  "first_name": "Mason",
+  "last_name": "Mount",
+  "nationality": "English",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+GET http://localhost:8080/players
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-01-07T065649.200.txt
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 138
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "7",
+  "first_name": "Mason",
+  "last_name": "Mount",
+  "nationality": "English",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 138
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "7",
+  "first_name": "Mason",
+  "last_name": "Mount",
+  "nationality": "English",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 138
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "7",
+  "first_name": "Mason",
+  "last_name": "Mount",
+  "nationality": "English",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+GET http://localhost:8080/players
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-01-07T065520.200.txt
+
+###
+
+GET http://localhost:8080/players/7
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-01-07T065518.200.txt
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 138
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "7",
+  "first_name": "Mason",
+  "last_name": "Mount",
+  "nationality": "English",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+GET http://localhost:8080/players/7
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-01-07T065505.404.txt
+
+###
+
+GET http://localhost:8080/players/7
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-27T061922.200.txt
+
+###
+
+GET http://localhost:8080/players
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-27T061916.200.txt
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 138
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "7",
+  "first_name": "Mason",
+  "last_name": "Mount",
+  "nationality": "English",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+GET http://localhost:8010
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-18T092114.200.txt
+
+###
+
+GET http://localhost:8080/players/7
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-18T090918.200.txt
+
+###
+
+GET http://localhost:8080/players
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-18T090908.200.txt
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 138
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "7",
+  "first_name": "Mason",
+  "last_name": "Mount",
+  "nationality": "English",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 138
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "7",
+  "first_name": "Mason",
+  "last_name": "Mount",
+  "nationality": "English",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+DELETE http://localhost:8080/players/8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/players
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-18T085731.200.txt
+
+###
+
+DELETE http://localhost:8080/players/8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/players
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-18T085454.200.txt
+
+###
+
+PUT http://localhost:8080/players/8
+Content-Type: application/json
+Content-Length: 145
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "18",
+  "first_name": "Bruno",
+  "last_name": "Fernandes",
+  "nationality": "Portugese",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+GET http://localhost:8080/players
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-18T085404.200.txt
+
+###
+
+GET http://localhost:8080/players/8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-18T085400.200.txt
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 144
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "8",
+  "first_name": "Bruno",
+  "last_name": "Fernandes",
+  "nationality": "Portugese",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+GET http://localhost:8080/players/7
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-18T085351.404.txt
+
+###
+
+GET http://localhost:8080/players/8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-18T085347.200.txt
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 144
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "8",
+  "first_name": "Bruno",
+  "last_name": "Fernandes",
+  "nationality": "Portugese",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+GET http://localhost:8080/players
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-17T071627.200.txt
+
+###
+
+GET http://localhost:8080/players/7
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-17T071604.200.txt
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 138
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "7",
+  "first_name": "Mason",
+  "last_name": "Mount",
+  "nationality": "English",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+GET http://localhost:8080/players/8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-17T071503.200.txt
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 144
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "8",
+  "first_name": "Bruno",
+  "last_name": "Fernandes",
+  "nationality": "Portugese",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+GET http://localhost:8080/players/8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-17T071458.404.txt
+
+###
+
+GET http://localhost:8080/players/8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-17T071411.200.txt
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 144
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "8",
+  "first_name": "Bruno",
+  "last_name": "Fernandes",
+  "nationality": "Portugese",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+GET http://localhost:8080/players
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-17T070719.200.txt
+
+###
+
+POST http://localhost:8080/players
+Content-Type: application/json
+Content-Length: 144
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "kit_number": "8",
+  "first_name": "Bruno",
+  "last_name": "Fernandes",
+  "nationality": "Portugese",
+  "position": "Attacking Midfielder"
+}
+
+###
+
+GET http://localhost:8080/players/8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-17T070550.500.txt
+
+###
+
